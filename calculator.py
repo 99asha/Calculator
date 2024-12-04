@@ -16,7 +16,7 @@ class Calculator:
         DOCSTRING: Define what to do on initialization
         '''
         
-        #Assign reference to the main window of the application
+    
         self.master = master
 
         #Add a name to our application
